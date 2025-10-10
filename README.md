@@ -31,7 +31,7 @@ Passionate about infrastructure, data pipelines, and building more than just cha
 ## 📂 Featured Projects
 
 - [tasa-bcv API](https://github.com/hailtr/tasa-bcv) – My first Railway-deployed API
-- [honor hub](https://github.com/hailtr/honor-hub) – Current main project
+- [honor hub](https://github.com/hailtr/hub) – Current main project
 - [rf-portfolio](https://github.com/hailtr/rf-portfolio) – Dynamic portfolio page
 - ...and a few stealthy, unlisted projects!
 
