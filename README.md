@@ -1,120 +1,73 @@
-# Hi, I'm Rafael Ortiz  
-**Data Engineer | Systems Builder | Automation Architect**
+# Hi, I'm Rafael Ortiz
+**Senior Backend & Data Architect | Go & Python Builder | FinOps Specialist**
 
-I build complete data systems — from ingestion, orchestration, and storage to analytics, automation, and backend services.
-
----
-
-## About Me
-
-I design and implement data workflows that replace fragile, manual operations with **engineered, scalable pipelines**.
-
-My work blends:
-- Data engineering (batch + streaming)
-- Backend/API development
-- Cloud automation
-- Database & warehouse design
-- Operational analytics
-- Real-world problem solving
-
-I like systems that *run themselves* — not dashboards glued together.
+I architect and deploy autonomous, high-concurrency systems—bridging the gap between heavy data engineering and ultra-low latency backends.
 
 ---
 
-## What I'm Working On Now
+## ⚙️ The Engineering Philosophy
 
-### **1. Streaming Data Engineering Monorepo (Active Project)**
-A full data platform foundation built from scratch:
+I replace fragile, manual operations and bloated infrastructures with **engineered, scalable, and cost-efficient pipelines**. My focus is on radical FinOps and system resilience.
 
-- **Redpanda (Kafka-compatible)** for streaming  
-- **PostgreSQL** for operational storage  
-- **DuckDB** for analytical transformations  
-- Power BI / other tools for analytics  
-- Modular pipelines for multi-source ingestion  
-- Infrastructure Dockerized + extensible
+My work is built on:
+- **High-Concurrency Backends:** Go (Golang), goroutines, real-time event orchestration.
+- **High-Speed Analytics:** ClickHouse, PostgreSQL (Advanced), Redpanda (Kafka).
+- **Autonomous Infrastructure:** DevOps (Docker, Terraform), Serverless (Vercel/Neon).
+- **Security First:** PII Masking, Data Encryption, strict rate limiting.
 
-This monorepo is intentionally designed to expand into multiple subprojects:
-- ingestion services  
-- transformation pipelines  
-- analytics layers  
-- monitoring  
-- alternative frontends (Looker, Streamlit, Power BI, GCP, etc)  
-
-Born from the question:  
-**“Why choose one stack when I can engineer all of them?”**
+*I like systems that run themselves—not dashboards glued together.*
 
 ---
 
-### **2. Java Selenium Scraper (Completed)**
-A production-grade scraper built for a technical challenge:  
-stable, optimized, and engineered for maintainability.
+## 🚀 What I'm Building Now
 
-Extracts, structures, and stores web data efficiently.  
-Expandable into:  
-- asynchronous ingestion  
-- automated batch processing  
-- API-driven storage  
+### **1. High-Concurrency Backend Engine (UK-Based Event Platform)**
+Bootstrapping a scalable mobile backend from scratch with zero initial infrastructure costs.
+- **Stack:** Go, PostgreSQL (Neon), WebSockets, Vercel, Docker.
+- **Focus:** Ultra-low latency, real-time AI integration, and robust concurrent logic.
 
----
+### **2. Autonomous Career Management System**
+Developing a personal online portfolio acting as a full headless CMS, integrating AI for dynamic content generation and resume building.
+- **Stack:** React/Next, FastAPI, PostgreSQL, Google Gemini API.
+- **Focus:** End-to-end automation, dynamic DB querying, and AI-driven workflows.
 
-### **3. ‘Stealth’ App Project (WIP)**
-A collaboration project exploring backend logic, architecture, and user flows.  
-More details soon.
-
----
-
-## Tech Stack
-
-### **Languages**
-Python • SQL • Java • JavaScript  
-
-### **Data Engineering**
-ETL/ELT • streaming pipelines • data modeling  
-validation frameworks • DuckDB • Pandas • NumPy  
-
-### **Databases & Storage**
-PostgreSQL • SQL Server • Snowflake • DuckDB  
-
-### **Streaming**
-Redpanda (Kafka) • event-driven ingestion  
-
-### **Backend**
-Flask • REST APIs • SQLAlchemy • Docker  
-
-### **Cloud & Infra**
-Azure • Docker • CI/CD • automation  
-
-### **BI**
-Power BI • DAX • modeling  
+### **3. Streaming Data Architecture (Monorepo)**
+A scalable data platform foundation built for high throughput and analytical transformations.
+- **Stack:** Redpanda (Kafka-compatible), ClickHouse, PostgreSQL, dbt.
+- **Focus:** Event-driven ingestion, analytical transformations, and modular pipelines.
 
 ---
 
-## Featured Projects
+## 🛠 Tech Stack
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| **Streaming Data Platform (Monorepo)** | Foundation: Redpanda + PostgreSQL + DuckDB + Docker + Power BI | Redpanda, PostgreSQL, DuckDB, Docker |
-| **Java Selenium Scraper** | Stable production scraper for structured data extraction | Java, Selenium |
-| **Honor Hub** | OCR + Whisper + ETL automation platform | Python, Tesseract, Whisper |
-| **tasa-bcv API** | Lightweight, production-ready rate API | Python, Flask |
-| **rf-portfolio** | Dynamic portfolio with Flask + SQLAlchemy | Python, Flask |
+### **Core Languages**
+Go (Golang) • Python (AsyncIO, FastAPI) • SQL (Advanced Modeling)
 
-More coming — ingestion frameworks, validation layers, and multi-stack analytics.
+### **Databases & Analytical Engines**
+PostgreSQL • ClickHouse • Snowflake • DuckDB
 
----
+### **Architecture & Cloud**
+Docker • Terraform (IaC) • GCP • Vercel / Neon • CI/CD Pipelines
 
-## Currently Exploring
-
-- Advanced streaming patterns  
-- Data platform architecture  
-- dbt / BigQuery  
-- Distributed processing fundamentals  
+### **Data Engineering & Streaming**
+Redpanda (Kafka) • dbt • Apache Airflow • ETL/ELT • LLM Automation
 
 ---
 
-## Portfolio
-👉 https://rfo-portfolio.vercel.app/
+## 📁 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **Event Platform Backend** | Highly concurrent backend for a UK startup. | Go, Neon, Docker, Vercel |
+| **AI-Powered CMS** | Dynamic portfolio and CV generator with AI integration. | Python, PostgreSQL, Gemini API |
+| **Honor Hub** | OCR + Whisper + ETL automation platform. | Python, Tesseract, Whisper |
+| **Streaming Monorepo**| Foundation for event-driven data ingestion. | Redpanda, PostgreSQL, DuckDB |
+| **tasa-bcv API** | Lightweight, production-ready rate API. | Python, Flask |
 
 ---
 
-> *Si vis pacem, para bellum.*
+## 📍 Connect
+👉 **API & Portfolio:** [api.rafaelortiz.dev](https://api.rafaelortiz.dev)
+
+---
+> *"Assemble your life, action by action. And be satisfied if each one achieves its goal..."* — Marcus Aurelius
