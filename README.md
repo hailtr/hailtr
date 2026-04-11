@@ -55,6 +55,7 @@ Power BI · DAX · Row-Level Security · Power Query M · Power Apps / Automate
 
 - **Portfolio + CV:** [rafaelortiz.dev](https://rafaelortiz.dev)
 - **CV (direct):** [api.rafaelortiz.dev/cv](https://api.rafaelortiz.dev/cv)
+- **LinkedIn:** [linkedin.com/in/rafaelortizaguilar](https://www.linkedin.com/in/rafaelortizaguilar/)
 
 ---
 
