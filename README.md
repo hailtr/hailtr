@@ -1,6 +1,6 @@
 # Hi, I'm Rafael Ortiz
 
-**Senior Data Engineer · Fixing broken data platforms**
+**Senior Data Engineer **
 
 I build and rebuild analytics stacks that teams can actually maintain.
 ClickHouse, Snowflake, Microsoft Fabric, Airflow, dbt — usually dropped
